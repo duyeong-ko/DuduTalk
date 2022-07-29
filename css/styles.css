@@ -6,6 +6,7 @@
 @import "screen-header.css";
 @import "friends.css";
 @import "user-component.css";
+@import "no-mobile.css";
 
 body {
   color: #2e363e;
